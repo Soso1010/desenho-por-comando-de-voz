@@ -5,7 +5,7 @@ screenWidth = 0;
 screenHeight = 0;
 apple = "";
 speakData = "";
-toNumber = 0;
+to_number = 0;
 
 drawApple = "";
 
